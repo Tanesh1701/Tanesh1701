@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there !
 
-<!--
-**Tanesh1701/Tanesh1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tanesh,
+- A software developer,
+- An avid learner,
+- Would love to connect.
+<p>&nbsp;</p>
 
-Here are some ideas to get you started:
+My interests include
+- Psychology
+- Reading
+- Social Engineering
+- Learning
+- Coding
+<p>&nbsp;</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My philosophy includes
+```mermaid
+graph LR
+A[Square one] -- what you are taught --> B((Work Hard))
+A -- what most of us don't know --> C(Work Smart)
+B --> D{Wealth}
+C --> D
+
+style A fill:#6500FF,stroke:#333,color:#fff
+style B fill:#6500FF,stroke:#333,color:#fff
+style C fill:#6500FF,stroke:#333,color:#fff
+style D fill:#6500FF,stroke:#333,color:#fff
+
+```
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+![Tanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanesh1701&count_private=true&theme=material-palenight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanesh1701&langs_count=5&count_private=true&theme=material-palenight)](https://github.com/Tanesh1701/github-readme-stats)
