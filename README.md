@@ -17,8 +17,8 @@ My interests include
 ### My philosophy includes
 ```mermaid
 graph LR
-A[Initial] --  --> B((Learn))
-A -- --> C(Fun)
+A[Initial] --> B((Learn))
+A --> C(Fun)
 B --> D{Epic}
 C --> D
 
