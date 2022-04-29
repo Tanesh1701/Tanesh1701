@@ -17,9 +17,9 @@ My interests include
 ### My philosophy includes
 ```mermaid
 graph LR
-A[Square one] -- what you are taught --> B((Work Hard))
-A -- what most of us don't know --> C(Work Smart)
-B --> D{Wealth}
+A[Initial] --  --> B((Learn))
+A -- --> C(Fun)
+B --> D{Epic}
 C --> D
 
 style A fill:#6500FF,stroke:#333,color:#fff
